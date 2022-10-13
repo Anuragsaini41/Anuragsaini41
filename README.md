@@ -1,6 +1,5 @@
-### Hi there 👋
-
-**Anuragsaini41/Anuragsaini41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋**Anuragsaini41/Anuragsaini41** 
+<hr>
 
 Here are some ideas to get you started:
 
