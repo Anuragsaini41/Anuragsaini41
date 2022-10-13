@@ -1,4 +1,4 @@
-### Hi there 👋**Anuragsaini41/Anuragsaini41** 
+### Hi there 👋**Anurag Saini** 
 <hr>
 
 Here are some ideas to get you started:
