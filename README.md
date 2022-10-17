@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p >
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmalik84&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img title="Streak Stats 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragsaini41&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
 <br/>
