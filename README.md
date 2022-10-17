@@ -1,7 +1,7 @@
 ### Hi there 👋**Anurag Saini** 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmalik84" alt="ankitmalik84" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuragsaini41" alt="Anuragsaini41" /></a> </p>
 
 Here are some ideas to get you started:
 
